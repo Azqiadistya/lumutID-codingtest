@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Illuminate\Support\Facades\Auth; // Pastikan facade Auth diimpor
+use Illuminate\Support\Facades\Auth; 
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\UserController;
 
